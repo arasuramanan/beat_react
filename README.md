@@ -1,5 +1,5 @@
 # beat_react
-# Website link: https://sensational-chebakia-359bb2.netlify.app/home
+ 🚀 [Live preview](https://sensational-chebakia-359bb2.netlify.app/home)
 # Screenshot:
 
 ![beat1](https://github.com/arasuramanan/beat_react/assets/102941390/3d17d0a0-ab9d-40a3-919e-6d326dc7f867)
