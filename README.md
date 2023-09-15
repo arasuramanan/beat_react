@@ -1,6 +1,12 @@
 # beat_react
 # Website link: https://sensational-chebakia-359bb2.netlify.app/home
+# Screenshot:
 
+![beat1](https://github.com/arasuramanan/beat_react/assets/102941390/3d17d0a0-ab9d-40a3-919e-6d326dc7f867)
+
+![beat2](https://github.com/arasuramanan/beat_react/assets/102941390/aac726e2-1fdd-4171-8637-5435b0954181)
+
+![beat3](https://github.com/arasuramanan/beat_react/assets/102941390/9c8d7052-2b07-4e01-ab67-4093d35f2216)
 
 # Project Setup:
 
